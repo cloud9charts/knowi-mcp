@@ -122,9 +122,9 @@ Direct, fast operations with predictable behavior.
 
 "Search Knowi for dashboards related to customer analytics"
 
-"Get the data from Knowi widget 12345"
+"Get the data from the Monthly Revenue widget"
 
-"Export Knowi dashboard 67890 to PDF"
+"Export the Executive Summary dashboard to PDF"
 
 "Push these sales records to a Knowi dataset called 'Daily Sales'"
 
