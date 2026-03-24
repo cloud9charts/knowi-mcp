@@ -126,8 +126,6 @@ Direct, fast operations with predictable behavior.
 
 "Export Knowi dashboard 67890 to PDF"
 
-"Create a MySQL datasource in Knowi called 'Production DB' at db.example.com:3306"
-
 "Push these sales records to a Knowi dataset called 'Daily Sales'"
 
 "Set up a daily email report for the executive dashboard"
